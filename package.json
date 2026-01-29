@@ -1,0 +1,11 @@
+{
+  "name": "opd-engine",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/app.js",
+    "sim": "node simulation/day.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  }
+}
